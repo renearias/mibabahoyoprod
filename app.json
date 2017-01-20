@@ -1,0 +1,8 @@
+{
+  "name": "mibabahoyo",
+  "description": "mi babahoyo production",
+  "repository": "https://github.com/renearias/mibabahoyoprod",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}

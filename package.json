@@ -1,0 +1,20 @@
+{
+  "name": "mibabahoyoprod",
+  "version": "1.0.0",
+  "description": "Mi babahoyo bolsa de empleo",
+  "main": "index.js",
+  "author": "Rene Arias",
+  "private": true,
+  "license": "BSD",
+  "engines": {
+    "node": "6.2.*",
+    "npm": "3.9.*"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.4",
+    "socket.io": "^1.4.8"
+  }
+}
